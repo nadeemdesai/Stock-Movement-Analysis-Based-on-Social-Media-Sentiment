@@ -6,6 +6,10 @@
 1. Replace YOUR_API_ID and YOUR_API_HASH with your Telegram API credentials.
 2. Replace @yourchannel with the actual Telegram channel or group username.
 3. ave the script as stock_prediction.py and run it
+4. Prerequisites
+   Make sure you have:
+   Python 3.8 or higher
+   Necessary libraries installed: telethon, nltk, pandas, scikit-learn, and matplotlib
 
 # Key Features
 
