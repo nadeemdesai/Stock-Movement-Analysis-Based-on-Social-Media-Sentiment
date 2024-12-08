@@ -14,6 +14,13 @@
 
     Example: For a phone number in the US: +1234567890
     Include the country code (+ followed by the numeric code).
+
+6.  Use a Bot Token (Alternative Method)
+    If you are using a Telegram bot, replace the phone number input with the bot token. To create a bot:
+
+    Open Telegram and search for BotFather.
+    Start a conversation with BotFather and create a new bot.
+    Copy the provided API Token and use it in place of your phone number.
    
 # Key Features
 
