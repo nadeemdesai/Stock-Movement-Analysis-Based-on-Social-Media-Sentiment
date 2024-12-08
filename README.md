@@ -10,7 +10,11 @@
    Make sure you have:
    Python 3.8 or higher
    Necessary libraries installed: telethon, nltk, pandas, scikit-learn, and matplotlib
+5. Ensure your phone number is in the correct international format:
 
+    Example: For a phone number in the US: +1234567890
+    Include the country code (+ followed by the numeric code).
+   
 # Key Features
 
 1. Telegram Scraping:
