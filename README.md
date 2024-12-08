@@ -9,13 +9,13 @@
 
 # Key Features
 
-1.Telegram Scraping:
+1. Telegram Scraping:
    Uses Telethon to fetch messages from a specified Telegram channel or group.
-2.Sentiment Analysis:
-  Applies NLTK's VADER SentimentIntensityAnalyzer to calculate sentiment scores.
-  Labels sentiment as positive (1), neutral (0), or negative (-1).
-3.Stock Movement Prediction:
-  Trains a RandomForestClassifier to predict stock movement based on sentiment.
-  Generates fake stock labels for demonstration (replace with real stock price movement data).
-4.Visualization:
-  Plots actual vs. predicted stock movements for analysis.
+2. Sentiment Analysis:
+   Applies NLTK's VADER SentimentIntensityAnalyzer to calculate sentiment scores.
+   Labels sentiment as positive (1), neutral (0), or negative (-1).
+3. Stock Movement Prediction:
+   Trains a RandomForestClassifier to predict stock movement based on sentiment.
+   Generates fake stock labels for demonstration (replace with real stock price movement data).
+4. Visualization:
+   Plots actual vs. predicted stock movements for analysis.
